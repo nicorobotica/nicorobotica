@@ -1,0 +1,38 @@
+	<!DOCTYPE html>
+<html lang="es-es">
+	
+	<head>
+		<title>Trofeos Betis</title>
+	</head>
+	
+	<body style="background-color: #4ff04d">
+		<h1>Trofeos del Betis</h1>
+		<p><mark><b>Sus trofeos:</b></mark></p>
+        <img src="https://elcorreoweb.es/documents/10157/0/400x400/0c0/0d0/none/10703/JNGJ/image_content_16945827_20150427210051.jpg"
+          width="400"
+          height="400">
+		 <hr>
+					 <p>Trofeos ganados en su historia:</p>
+			 <ol>
+				<li>Ganador de Liga (1934-1935)</li>
+				<li>Copa del Rey (1976-77, 2004-05, 2021-22)</li>
+				<li>Supercopa de España (2005)</li>
+				<li>Copa de la Liga de España (1986)</li>
+			 </ol>
+			 <h3>Último trofeo Importante (2022):</h3>
+			 <iframe width="560" height="315" src="https://www.youtube.com/embed/WUNTWH3Qi0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			 <hr>
+			 <h4>Enlaces interesantes:</h4>
+
+			 <br>
+			 <a href="https://es.wikipedia.org/wiki/Anexo:Palmar%C3%A9s_del_Real_Betis_Balompi%C3%A9">Trofeos del Betis</a>
+			 <br>
+			 <br>
+			<img src="https://www.realbetisbalompie.es/media/img/graphics/new_logos/logo_horizontal.svg"
+			  width="600"
+              height="235">
+		<hr>
+		 <a href="file:///home/usuario/Documentos/NCC/Betis.html">Atrás</a>
+			
+	</body>
+</html>
